@@ -69,6 +69,9 @@ In this project I have used several technologies in order to achieve my end goal
 
 I have conducted multiple tests in order to check the app on feasbility and also on durability. The app is not to be broken by loading. 
 
+The function **reset my password** brings bugs with it that are not solvable at this stage due to gmail restrictions. This will be taken into consideration
+in a future release. 
+
 I tested also the login links and the registration and if the user is saved correctly in order to access the page and the watches. 
 
 I also asked Family members and collagues at work to go through the website and test it on functionality and they were impressed by its performance and they added some recipes themselves.
